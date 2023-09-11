@@ -1,16 +1,13 @@
-# login_ui
 
 A new Flutter project.
 
-## Getting Started
+## Screenshots: 
+<img width="294" alt="Screenshot 2023-09-11 at 9 56 56 PM" src="https://github.com/abhishtshankar/login_ui/assets/71582884/5e081d7a-f670-47a5-a414-4e77076d0178">
 
-This project is a starting point for a Flutter application.
+<img width="297" alt="Screenshot 2023-09-11 at 9 57 08 PM" src="https://github.com/abhishtshankar/login_ui/assets/71582884/a62ae48e-f0f5-40f2-a7c8-be66b9e943fb">
 
-A few resources to get you started if this is your first Flutter project:
+<img width="291" alt="Screenshot 2023-09-11 at 9 57 26 PM" src="https://github.com/abhishtshankar/login_ui/assets/71582884/e8f8fd48-1d0f-4a51-b36a-b89c8e41ec54">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="298" alt="Screenshot 2023-09-11 at 9 57 42 PM" src="https://github.com/abhishtshankar/login_ui/assets/71582884/02b6520c-3c93-4c9f-a938-9a64a26d6350">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="289" alt="Screenshot 2023-09-11 at 9 58 00 PM" src="https://github.com/abhishtshankar/login_ui/assets/71582884/9f1977d2-a780-484a-bdef-f86fdc033450">
